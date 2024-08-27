@@ -1,4 +1,4 @@
-# Eduardo de Oliveira
+# :earth_americas: Hello, world! :earth_asia:
 
 ![Ed's Github Card](./card-github.jpg)
 
@@ -6,7 +6,7 @@
 
 I'm **Eduardo de Oliveira** from Brazil, and I am currently studying **web development**, including JavaScript, CSS, and HTML. I'm also really into video games, including shooters, RPGs, simulators, and more. In the future, I aspire to become a game developer.
 
-## :zap: Stats
+## :zap: Cool Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevOlivz&theme=whatsapp-dark2)](https://git.io/streak-stats)
 
