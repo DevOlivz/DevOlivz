@@ -1,3 +1,5 @@
+---
+
 # :earth_americas: Hello, world! :earth_asia:
 
 ![Ed's Github Card](./card-github.jpg)
@@ -24,3 +26,5 @@ I'm **Eduardo de Oliveira** from Brazil, and I am currently studying **web devel
 
 - Photoshop
 - After Effects
+
+---
